@@ -4,7 +4,7 @@ bio:                'A place to store my thoughts and creations'
 description:        "This website is a showcase of my work so far as a developer"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/codelogo.png'
 background:         'assets/img/codebackground.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
